@@ -6,7 +6,7 @@ Hey there! I'm Jonathan Robinson, and you've just stumbled upon my personal READ
 
 ## 🚀 Background
 
-- 🔭 Currently blasting off on [my portfolio](https://github.com/Jon-Robb/portfolio_mantine_nextjs).
+- 🔭 Currently blasting off on [Google Cloud Skills](https://www.cloudskillsboost.google/).
 - 🌱 Always leveling up in Azeroth, Sanctuary... and some irl stuff as well (mostly irl stuff actually).
 - 💬 Let's chat about being old, being a dad, sleeping at 8pm.
 - 📫 Reach out at [robinsonjonathan240817@gmailc.com](robinsonjonathan240817@gmailc.com).

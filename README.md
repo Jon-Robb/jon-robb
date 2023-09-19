@@ -1,5 +1,3 @@
-# About Me
-
 ## 👋 Introduction
 
 Hey there! I'm Jonathan Robinson, and you've just stumbled upon my personal README.md. I'm a computer science gratuate with a passion for internet stuff. This document is like a sneak peek into my world, showing you who I am, what I love, and what you'll discover in my repositories.

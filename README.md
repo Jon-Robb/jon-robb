@@ -11,7 +11,7 @@ Hey there! I'm Jonathan Robinson, and you've just stumbled upon my personal READ
 - 💬 Let's chat about being old, being a dad, sleeping at 8pm.
 - 📫 Reach out at [robinsonjonathan240817@gmailc.com](robinsonjonathan240817@gmailc.com).
 - ⚡ Fun fact: I can't think of a fun fact right now.
-- 📝 See my [resume](www.perdu.com)
+- 📝 See my [resume](https://www.perdu.com)
 - 🗣️ I speak french, english, and an acceptable level of spanish
 
 # Interests
